@@ -1,5 +1,15 @@
 # 💫 About Me:
-🚀 Passionate Web Developer & Lifelong Learner<br><br>🔭 I’m currently working on<br>Building fun and interactive web projects using JavaScript, HTML & CSS<br><br>👯 I’m looking to collaborate on<br>Open-source projects and beginner-friendly web development ideas<br><br>🤝 I’m looking for help with<br>Improving project structure, best practices, and real-world coding workflows<br><br>🌱 I’m currently learning<br>Advanced JavaScript, responsive design, and modern web development concepts<br><br>💬 Ask me about<br>Front-end development, JavaScript basics, and learning web dev as a beginner<br><br>⚡ Fun fact<br>I love turning small ideas into cool web projects 🚀
+🚀 Passionate Web Developer & Lifelong Learner<br><br>
+🔭 Currently working on<br>
+Fun web projects using JavaScript, HTML & CSS<br><br>
+👯 Looking to collaborate on<br>
+Open-source & beginner-friendly projects<br><br>
+🌱 Currently learning<br>
+Advanced JavaScript & responsive design<br><br>
+💬 Ask me about<br>
+Front-end development & JavaScript basics<br><br>
+⚡ Fun fact<br>
+I love turning ideas into cool web projects 🚀
 
 
 ## 🌐 Socials:
