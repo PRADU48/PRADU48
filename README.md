@@ -12,7 +12,7 @@ Front-end development & JavaScript basics<br><br>
 I love turning ideas into cool web projects 🚀
 
 ### 👀 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=PRADU48&style=for-the-badge&color=red)
+![Visitor Count](https://komarev.com/ghpvc/?username=DevPradu48&style=for-the-badge&color=red)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.pradu.48) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pradhumn_48) 
@@ -35,4 +35,4 @@ I love turning ideas into cool web projects 🚀
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📅 Contribution Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PRADU48&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevPradu48&theme=github-dark)
