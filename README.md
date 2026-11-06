@@ -12,7 +12,7 @@ Front-end development & JavaScript basics<br><br>
 I love turning ideas into cool web projects 🚀
 
 ### 👀 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=DevPradu48&style=for-the-badge&color=red)
+![Visitor Count](https://komarev.com/ghpvc/?username=PRADU48&style=for-the-badge&color=red)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.pradu.48) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pradhumn_48) 
